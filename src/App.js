@@ -9,7 +9,7 @@ const App = () => {
   return (
     <>
       <div className='container'>
-        <h1>Increment/Decrement counter</h1>
+        <h1>Increment/Decrement counterr</h1>
         <h4>Using React and Redux</h4>
         <div className='quantity'>
           <a className='quantity_minus' title="Decrement" onClick={()=> dispatch(decNumber())}><span>-</span></a>
